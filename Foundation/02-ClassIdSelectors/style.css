@@ -1,0 +1,20 @@
+.algebra {
+    color: black;   
+    background-color: red;
+}
+
+.algebra#geometry {
+    font-size: large;
+}
+
+#trig {
+    color: blue;
+    font-size: larger;
+}
+
+#calc {
+    color: black;
+    background-color: lime;
+    font-size: large;
+    font-weight: 700;
+}
