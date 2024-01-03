@@ -1,20 +1,20 @@
 .algebra {
     color: black;   
-    background-color: red;
+    background-color: lightcoral;
 }
 
 .algebra#geometry {
-    font-size: large;
+    font-size: 35px;
 }
 
 #trig {
     color: blue;
-    font-size: larger;
+    font-size: 50px;
 }
 
 #calc {
     color: black;
     background-color: lime;
-    font-size: large;
+    font-size: 35px;
     font-weight: 700;
 }
