@@ -4,17 +4,17 @@
 }
 
 .algebra#geometry {
-    font-size: 35px;
+    font-size: 24px;
 }
 
 #trig {
     color: blue;
-    font-size: 50px;
+    font-size: 36px;
 }
 
 #calc {
     color: black;
     background-color: lime;
-    font-size: 35px;
+    font-size: 24px;
     font-weight: 700;
 }
