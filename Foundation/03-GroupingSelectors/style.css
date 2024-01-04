@@ -1,13 +1,13 @@
-.math {
+.math, .science {
     font-size: 28px;
     font-family: helvetica, 'Times New Roman', sans-serif
 }
 
-.math.science {
+.math { 
     background-color: black;
     color: white;
 }
 
-.math.reading {
+.science {
     background-color: yellow;
 } 
