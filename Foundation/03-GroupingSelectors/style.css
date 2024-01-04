@@ -1,0 +1,13 @@
+math {
+    font-size: 28px;
+    font-family: helvetica, 'Times New Roman', sans-serif
+}
+
+math.science {
+    background-color: black;
+    color: white;
+}
+
+math.reading {
+    background-color: yellow;
+} 
